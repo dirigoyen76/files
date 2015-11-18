@@ -463,3 +463,121 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:-1,BT_SPORT_2_HD
 http://bb1.sendevric.com:8000/live/tommaso/tommaso/1512.m3u8
+
+
+#EXTINF:-1,Telenovelas
+http://wcm777.la/tp/tlnovelas.m3u8
+#EXTINF:-1,Glitz
+http://wcm777.la/tp/glitz.m3u8
+#EXTINF:-1,SyFy
+http://wcm777.la/tp/syfy.m3u8
+#EXTINF:-1,TLC
+http://wcm777.la/tp/tlc.m3u8
+#EXTINF:-1,E!
+http://wcm777.la/tp/e.m3u8
+#EXTINF:-1,MTV
+http://wcm777.la/tp/mtv.m3u8
+#EXTINF:-1,MTV Hits
+http://wcm777.la/tp/mtv-hits.m3u8
+#EXTINF:-1,Disney Channel
+http://wcm777.la/tp/disney-channel.m3u8
+#EXTINF:-1,Cartoon Network
+http://wcm777.la/tp/cartoon-network.m3u8
+#EXTINF:-1,Disney XD
+http://wcm777.la/tp/disney-xd.m3u8
+#EXTINF:-1,Nickelodeon
+http://wcm777.la/tp/nick.m3u8
+#EXTINF:-1,Nick HD
+http://wcm777.la/tp/nick-hd.m3u8
+#EXTINF:-1,Nicktoons
+http://wcm777.la/tp/nicktoons.m3u8
+#EXTINF:-1,Boomerang
+http://wcm777.la/tp/boomerang.m3u8
+#EXTINF:-1,Tooncast
+http://wcm777.la/tp/tooncast.m3u8
+#EXTINF:-1,Discovery Kids
+http://wcm777.la/tp/discovery-kids.m3u8
+#EXTINF:-1,Disney Jr
+http://wcm777.la/tp/disney-jr.m3u8
+#EXTINF:-1,Nick Jr
+http://wcm777.la/tp/nick-jr.m3u8
+#EXTINF:-1,BabyTV
+http://wcm777.la/mariocs.php?canal=BabyTVLASD&cm=317&f=mariocs.m3u8
+#EXTINF:-1,Discovery Channel
+http://wcm777.la/tp/discovery.m3u8
+#EXTINF:-1,Investigacion Discovery
+http://wcm777.la/tp/i-d.m3u8
+#EXTINF:-1,National Geographic
+http://wcm777.la/tp/nat-geo.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://wcm777.la/tp/nat-geo-wild.m3u8
+#EXTINF:-1,History HD
+http://wcm777.la/tp/history.m3u8
+#EXTINF:-1,Animal Planet
+http://wcm777.la/tp/animal-planet.m3u8
+#EXTINF:-1,Home and Health
+http://wcm777.la/tp/home-and-healt.m3u8
+#EXTINF:-1,Discovery Theather HD
+http://wcm777.la/tp/discovery-theater.m3u8
+#EXTINF:-1,Discovery Science
+http://wcm777.la/tp/discovery-science.m3u8
+#EXTINF:-1,Discovery Civilization
+http://wcm777.la/tp/discovery-civilization.m3u8
+#EXTINF:-1,Discovery Turbo
+http://wcm777.la/tp/discovery-turbo.m3u8
+#EXTINF:-1,Bein Ñ Sports
+http://wcm777.la/mariocs.php?canal=BeinSportsLA&cm=2527&f=mariocs.m3u8
+#EXTINF:-1,ESPN HD
+http://wcm777.la/tp/espn-hd.m3u8
+#EXTINF:-1,ESPN 2
+http://wcm777.la/tp/espn-2.m3u8
+#EXTINF:-1,ESPN 3
+http://wcm777.la/tp/espn-3.m3u8
+#EXTINF:-1,Fox Sports
+http://wcm777.la/tp/fox-sports.m3u8
+#EXTINF:-1,Fox Sports 2
+http://wcm777.la/tp/fox-sports-2.m3u8
+#EXTINF:-1,Fox
+http://wcm777.la/tp/fox-hd.m3u8
+#EXTINF:-1,Cinecanal HD
+http://wcm777.la/tp/cinecanal-hd.m3u8
+#EXTINF:-1,AXN
+http://wcm777.la/tp/axn.m3u8
+#EXTINF:-1,HBO
+http://wcm777.la/mariocs.php?canal=HBO2SD&cm=365&f=mariocs.m3u8
+#EXTINF:-1,HBO Plus
+http://wcm777.la/mariocs.php?canal=HBOPus2LASD&cm=369&f=mariocs.m3u8
+#EXTINF:-1,TNT
+http://wcm777.la/tp/tnt.m3u8
+#EXTINF:-1,FX HD
+http://wcm777.la/tp/fx-hd.m3u8
+#EXTINF:-1,Sony
+http://wcm777.la/tp/sony.m3u8
+#EXTINF:-1,Space HD
+http://wcm777.la/tp/space.m3u8
+#EXTINF:-1,Warner Channel
+http://wcm777.la/tp/warner.m3u8
+#EXTINF:-1,AMC
+http://wcm777.la/tp/amc.m3u8
+#EXTINF:-1,Cinemax
+http://wcm777.la/tp/cinemax.m3u8
+#EXTINF:-1,Fox Action HD
+http://wcm777.la/tp/fox-action.m3u8
+#EXTINF:-1,Fox Cinèma
+http://wcm777.la/tp/fox-cinema.m3u8
+#EXTINF:-1,Fox Classics
+http://wcm777.la/tp/fox-classics.m3u8
+#EXTINF:-1,Fox Movies HD
+http://wcm777.la/tp/fox-movies.m3u8
+#EXTINF:-1,Golden HD
+http://wcm777.la/tp/golden.m3u8
+#EXTINF:-1,Golden Edge
+http://wcm777.la/tp/golden-edge.m3u8
+#EXTINF:0,Peliculas HD
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,Cine Dinamita
+http://wcm777.la/mariocs.php?canal=CineDinamitaLA&cm=3465&f=mariocs.m3u8
+#EXTINF:-1,CineLatino
+http://wcm777.la/mariocs.php?canal=CineLatinoSD&cm=477&f=mariocs.m3u8
+#EXTINF:-1,Film Zone
+http://wcm777.la/tp/film-zone.m3u8
