@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/discoverykids.png",2 Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/cbee.png",2 CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/disnerjunior.png",2 Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nickjr.png",2 Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/10/19/disneychanneln.png",2 Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://i.imgur.com/eGsJu3O.png",2 NICKTOONS
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/09/28/nickhd.png",2 Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/nick.png",2 Nickelodeon (Nick)
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/cn.png",2 Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/disneyxdesp.png",2 Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/boomerang.png",2 Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/tiin.png",2 TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/tooncast.png",2 Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
