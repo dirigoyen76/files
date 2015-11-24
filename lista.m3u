@@ -467,7 +467,7 @@ http://canalespremium.com.mx/canales/425.m3u8
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/03.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F0YSu08.jpg",PARAMOUNT_CHANNEL
 http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
-#EXTINF:-1tvg-logo="http://i.imgur.com/sR96ABD.jpg",MULTICINEMA
+#EXTINF:-1 tvg-logo="http://i.imgur.com/sR96ABD.jpg",MULTICINEMA
 http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/10/07/dhe.png",DHE
 http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
