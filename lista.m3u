@@ -461,23 +461,23 @@ http://mitv.6te.net/stk.php?canal=dio&cm=469&f=.m3u8
 http://104.200.159.58:1935/app/bypass_tvs-channel/media_w980039968_10152.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png",UNIVISION
 http://104.200.159.58:1935/app/planetas77_u5kg8f7fs-channel/media_w700140360_10214.m3u8
-#EXTINF:-1 tvg-logo="",AZCINEMA
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_6/gallery_5692_6_14252.png",AZCINEMA
 http://canalespremium.com.mx/canales/425.m3u8
-#EXTINF:-1 tvg-logo="",BEIN_SPORT_Ñ
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Dp3GH1I.png",BEIN_SPORT_Ñ
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/03.m3u8
-#EXTINF:-1 tvg-logo="",PARAMOUNT_CHANNEL
+#EXTINF:-1 tvg-logo="http://i.imgur.com/F0YSu08.jpg",PARAMOUNT_CHANNEL
 http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
-#EXTINF:-1,MULTICINEMA
+#EXTINF:-1tvg-logo="http://i.imgur.com/sR96ABD.jpg",MULTICINEMA
 http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/10/07/dhe.png",DHE
 http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
-#EXTINF:-1,NFL_NETWORK_HD 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qKfhCrg.jpg",NFL_NETWORK_HD 
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8 
-#EXTINF:-1,NFL_NOW_HD 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Lp0kV24.png",NFL_NOW_HD 
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1,BT_SPORT_2
+#EXTINF:-1 tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png",BT_SPORT_2
 http://mitv.6te.net/stk.php?canal=dio&cm=2481&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.gigared.com.ar/img/tv/premium15.png",UFC Network Latinoamerica
 http://dino.webcindario.com/zeta.php?canal=&cm=1047&f=.m3u8
-#EXTINF:-1,BOXnation
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BoxNation_logo.jpg",BOXnation
 http://mitv.6te.net/stk.php?canal=dio&cm=2449&f=.m3u8
