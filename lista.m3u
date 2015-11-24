@@ -437,6 +437,26 @@ http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
+#EXTINF:-1 tvg-name="HBO" , HBO
+http://mitv.6te.net/stk.php?canal=dio&cm=385&f=.m3u8
+#EXTINF:-1 tvg-name="HBO 2" , HBO 2
+http://mitv.6te.net/stk.php?canal=dio&cm=365&f=.m3u8
+#EXTINF:-1 tvg-name="HBO Plus" , HBO Plus
+http://mitv.6te.net/stk.php?canal=dio&cm=453&f=.m3u8
+#EXTINF:-1 tvg-name="hbo-plus.png" , HBO Plus 2
+http://mitv.6te.net/stk.php?canal=dio&cm=369&f=.m3u8
+#EXTINF:-1 tvg-name="HBO Family" , HBO Family
+http://mitv.6te.net/stk.php?canal=dio&cm=449&f=.m3u8
+#EXTINF:-1 tvg-name="HBO Signature" , HBO Signature
+http://mitv.6te.net/stk.php?canal=dio&cm=451&f=.m3u8
+#EXTINF:-1 tvg-name="Max" , Max
+http://mitv.6te.net/stk.php?canal=dio&cm=381&f=.m3u8
+#EXTINF:-1 tvg-name="max-prime.png" , MaxPrime
+http://mitv.6te.net/stk.php?canal=dio&cm=377&f=.m3u8
+#EXTINF:-1 tvg-name="max-prime.png" , Max prime2
+http://mitv.6te.net/stk.php?canal=dio&cm=379&f=.m3u8
+#EXTINF:-1 tvg-name="max-up.png" , Max UP
+http://mitv.6te.net/stk.php?canal=dio&cm=469&f=.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/telemondo.png",TELEMUNDO
 http://104.200.159.58:1935/app/bypass_tvs-channel/media_w980039968_10152.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png",UNIVISION
