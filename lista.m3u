@@ -437,35 +437,35 @@ http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
-#EXTINF:-1 tvg-name="HBO" , HBO
+#EXTINF:-1 tvg-logo="http://news.doddleme.com/wp-content/uploads/2013/01/hbo-logo.jpg",HBO
 http://mitv.6te.net/stk.php?canal=dio&cm=385&f=.m3u8
-#EXTINF:-1 tvg-name="HBO 2" , HBO 2
+#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/HBO-2-Logo.jpg",HBO 2
 http://mitv.6te.net/stk.php?canal=dio&cm=365&f=.m3u8
-#EXTINF:-1 tvg-name="HBO Plus" , HBO Plus
+#EXTINF:-1 tvg-logo="http://www.unicablemargarita.com/images/channel/hbo-plus.jpg",HBO Plus
 http://mitv.6te.net/stk.php?canal=dio&cm=453&f=.m3u8
-#EXTINF:-1 tvg-name="hbo-plus.png" , HBO Plus 2
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/812947e7-4881-4527-a4e1-8f60f745544d_l.jpg",HBO Plus 2
 http://mitv.6te.net/stk.php?canal=dio&cm=369&f=.m3u8
-#EXTINF:-1 tvg-name="HBO Family" , HBO Family
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RQa2ipx.png",HBO Family
 http://mitv.6te.net/stk.php?canal=dio&cm=449&f=.m3u8
-#EXTINF:-1 tvg-name="HBO Signature" , HBO Signature
+#EXTINF:-1 tvg-logo="http://victorianwoodshop.com/images/hbo.gif",HBO Signature
 http://mitv.6te.net/stk.php?canal=dio&cm=451&f=.m3u8
-#EXTINF:-1 tvg-name="Max" , Max
+#EXTINF:-1 tvg-logo="",Max
 http://mitv.6te.net/stk.php?canal=dio&cm=381&f=.m3u8
-#EXTINF:-1 tvg-name="max-prime.png" , MaxPrime
+#EXTINF:-1 tvg-logo="",MaxPrime
 http://mitv.6te.net/stk.php?canal=dio&cm=377&f=.m3u8
-#EXTINF:-1 tvg-name="max-prime.png" , Max prime2
+#EXTINF:-1 tvg-logo="",Max prime2
 http://mitv.6te.net/stk.php?canal=dio&cm=379&f=.m3u8
-#EXTINF:-1 tvg-name="max-up.png" , Max UP
+#EXTINF:-1 tvg-logo="",Max UP
 http://mitv.6te.net/stk.php?canal=dio&cm=469&f=.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/telemondo.png",TELEMUNDO
 http://104.200.159.58:1935/app/bypass_tvs-channel/media_w980039968_10152.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png",UNIVISION
 http://104.200.159.58:1935/app/planetas77_u5kg8f7fs-channel/media_w700140360_10214.m3u8
-#EXTINF:-1,AZCINEMA
+#EXTINF:-1 tvg-logo="",AZCINEMA
 http://canalespremium.com.mx/canales/425.m3u8
-#EXTINF:-1,BEIN_SPORT_Ñ
+#EXTINF:-1 tvg-logo="",BEIN_SPORT_Ñ
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/03.m3u8
-#EXTINF:-1,PARAMOUNT_CHANNEL
+#EXTINF:-1 tvg-logo="",PARAMOUNT_CHANNEL
 http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
 #EXTINF:-1,MULTICINEMA
 http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
@@ -479,5 +479,5 @@ http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w9
 http://mitv.6te.net/stk.php?canal=dio&cm=2481&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.gigared.com.ar/img/tv/premium15.png",UFC Network Latinoamerica
 http://dino.webcindario.com/zeta.php?canal=&cm=1047&f=.m3u8
-#EXTINF:-1 , BOXnation
+#EXTINF:-1,BOXnation
 http://mitv.6te.net/stk.php?canal=dio&cm=2449&f=.m3u8
