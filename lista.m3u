@@ -438,25 +438,25 @@ http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 
 
 #EXTINF:-1 tvg-logo="http://news.doddleme.com/wp-content/uploads/2013/01/hbo-logo.jpg",HBO
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=385&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=385&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/HBO-2-Logo.jpg",HBO 2
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=365&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=365&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.unicablemargarita.com/images/channel/hbo-plus.jpg",HBO Plus
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=453&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=453&f=.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/812947e7-4881-4527-a4e1-8f60f745544d_l.jpg",HBO Plus 2
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=369&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=369&f=.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/RQa2ipx.png",HBO Family
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=449&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=449&f=.m3u8
 #EXTINF:-1 tvg-logo="http://victorianwoodshop.com/images/hbo.gif",HBO Signature
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=451&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=451&f=.m3u8
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2012/09/Max-HD-logo.jpeg",Max
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=381&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=381&f=.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-RZfIB5VrOus/Vd9jmJ36mmI/AAAAAAAAAp8/ZhIKsg-0_Pk/s1600/maxprime.png",MaxPrime
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=377&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=377&f=.m3u8
 #EXTINF:-1 tvg-logo="http://tvclaro.tv/arquivos_upload/canais/47.jpg",Max prime2
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=379&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=379&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png",Max UP
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=469&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=469&f=.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/telemondo.png",TELEMUNDO
 http://104.200.159.58:1935/app/bypass_tvs-channel/media_w980039968_10152.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png",UNIVISION
@@ -476,7 +476,7 @@ http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Lp0kV24.png",NFL_NOW_HD 
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:-1 tvg-logo="http://footballontv.com/img/channels/square-300/BT-Sport-2.png",BT_SPORT_2
-http://adryanlist.x10.mx/nescafe.php?canal=dio&cm=2481&f=.m3u8
+http://adryanlist.x10.mx/nescafe.php?canal=&cm=2481&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.gigared.com.ar/img/tv/premium15.png",UFC Network Latinoamerica
 http://adryanlist.x10.mx/nescafe.php?canal=&cm=1047&f=.m3u8
 #EXTINF:-1 tvg-logo="https://writecross.files.wordpress.com/2012/05/boxnation.jpg",BOXnation
