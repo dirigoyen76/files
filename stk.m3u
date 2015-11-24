@@ -16,7 +16,7 @@ http://mitv.6te.net/stk.php?canal=dio&cm=455&f=.m3u8
 #EXTINF:-1 tvg-name="Discovery Theater HD" , Discovery Theater HD
 http://mitv.6te.net/stk.php?canal=dio&cm=3798&f=.m3u8
 #EXTINF:-1 tvg-name="Discovery Home & Health" , Discovery Home & Health
-http://mitv.6te.net/stk.php?canal=dio&cm=252&nombre=f.m3u8
+http://mitv.6te.net/stk.php?canal=dio&cm=252&=f.m3u8
 #EXTINF:-1 tvg-name="Discovery World" , Discovery World
 http://mitv.6te.net/stk.php?canal=dio&cm=3529&f=.m3u8
 #EXTINF:-1 tvg-name="History" , History
@@ -42,7 +42,7 @@ http://mitv.6te.net/stk.php?canal=dio&cm=425&f=.m3u8
 #EXTINF:-1 , Mundo Max
 http://mitv.6te.net/stk.php?canal=dio&cm=7114&f=.m3u8
 #EXTINF:-1 tvg-name="TruTV" , TruTV
-http://mitv.6te.net/stk.php?canal=dio&cm=337
+http://mitv.6te.net/stk.php?canal=dio&cm=337&f=.m3u8
 #EXTINF:-1 tvg-name="BBC Entertainment" , BBC Entertainment
 http://mitv.6te.net/stk.php?canal=dio&cm=1407&f=.m3u8
 #EXTINF:-1 tvg-name="HBO" , HBO
