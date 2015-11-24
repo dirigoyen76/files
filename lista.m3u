@@ -455,7 +455,9 @@ http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8 
 #EXTINF:-1,NFL_NOW_HD 
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1,BT_SPORT_2_HD
-http://bb1.sendevric.com:8000/live/tommaso/tommaso/1512.m3u8
+#EXTINF:-1,BT_SPORT_2
+http://mitv.6te.net/stk.php?canal=dio&cm=2481&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.gigared.com.ar/img/tv/premium15.png",UFC Network Latinoamerica
 http://dino.webcindario.com/zeta.php?canal=&cm=1047&f=.m3u8
+#EXTINF:-1 , BOXnation
+http://mitv.6te.net/stk.php?canal=dio&cm=2449&f=.m3u8
