@@ -458,13 +458,11 @@ http://www.wolfiptv.com/jodete.php?canal=&IDE=379&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png",Max UP
 http://www.wolfiptv.com/jodete.php?canal=&IDE=469&f=.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/telemondo.png",TELEMUNDO
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?-1332%2F1499-20150816T153535.ts=-1
+http://www.wolfiptv.com/jodete.php?canal=&IDE=4417&f=.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png",UNIVISION
-http://104.200.159.58:1935/app/planetas77_u5kg8f7fs-channel/media_w700140360_10214.m3u8
+http://www.wolfiptv.com/jodete.php?canal=&IDE=6299&f=.m3u8
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_6/gallery_5692_6_14252.png",AZCINEMA
 http://canalespremium.com.mx/canales/425.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Dp3GH1I.png",BEIN_SPORT_Ñ
-http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/03.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/F0YSu08.jpg",PARAMOUNT_CHANNEL
 http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/sR96ABD.jpg",MULTICINEMA
@@ -481,5 +479,3 @@ http://www.wolfiptv.com/jodete.php?canal=&IDE=2481&f=.m3u8
 http://www.wolfiptv.com/jodete.php?canal=&IDE=1047&f=.m3u8
 #EXTINF:-1 tvg-logo="https://writecross.files.wordpress.com/2012/05/boxnation.jpg",BOXnation
 http://www.wolfiptv.com/jodete.php?canal=&IDE=2449&f=.m3u8
-#EXTINF:-1,Telemundo 3
-http://66.55.92.79:1935/app/chivasss69s-channel/chunklist_w1150656862.m3u8
