@@ -458,7 +458,7 @@ http://www.wolfiptv.com/jodete.php?canal=&IDE379&f=.m3u8
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png",Max UP
 http://www.wolfiptv.com/jodete.php?canal=&IDE469&f=.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/telemondo.png",TELEMUNDO
-http://104.200.159.58:1935/app/bypass_tvs-channel/media_w980039968_10152.m3u8
+http://latinochannels.2fh.co/canales/hls/telemundo.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png",UNIVISION
 http://104.200.159.58:1935/app/planetas77_u5kg8f7fs-channel/media_w700140360_10214.m3u8
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_6/gallery_5692_6_14252.png",AZCINEMA
