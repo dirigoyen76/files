@@ -481,3 +481,11 @@ http://www.wolfiptv.com/jodete.php?canal=&IDE=2481&f=.m3u8
 http://www.wolfiptv.com/jodete.php?canal=&IDE=1047&f=.m3u8
 #EXTINF:-1 tvg-logo="https://writecross.files.wordpress.com/2012/05/boxnation.jpg",BOXnation
 http://www.wolfiptv.com/jodete.php?canal=&IDE=2449&f=.m3u8
+#EXTINF:-1,Telemundo 1
+http://latinochannels.2fh.co/canales/hls/telemundo.m3u8
+#EXTINF:-1,Telemundo 2
+http://public.tuiptv.biz/public/PlayList.php?id=116da423-39c5-48a5-9a3d-2d311a3d76ac&channel=7
+#EXTINF:-1,TELEMUNDO HD
+http://104.200.159.74:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
+#EXTINF:0,Telemundo 3
+https://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/chunklist.m3u8
