@@ -75,6 +75,12 @@ http://adryanlist.x10.mx/nescafe.php?cm=2501&f=.m3u8
 http://adryanlist.x10.mx/nescafe.php?cm=1407&f=.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1393.png", Unicable
 http://adryanlist.x10.mx/nescafe.php?cm=3804&f=.m3u8
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/telemondo.png", Telemundo
+http://adryanlist.x10.mx/nescafe.php?cm=4417&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png", Univision
+
+http://adryanlist.x10.mx/nescafe.php?cm=6299&f=.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/839.png", Warner Channel Latinoamerica
 http://adryanlist.x10.mx/nescafe.php?cm=2499&f=.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/141.png", E! Latinoamerica
