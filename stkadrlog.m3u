@@ -78,8 +78,10 @@ http://adryanlist.x10.mx/nescafe.php?cm=3804&f=.m3u8
 #EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/telemondo.png", Telemundo
 http://adryanlist.x10.mx/nescafe.php?cm=9455&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png", Univision
+#EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/14/cest.png",2 CANAL DE LAS ESTRELLAS HD
+http://adryanlist.x10.mx/nescafe.php?cm=6354&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png", Univision
 http://adryanlist.x10.mx/nescafe.php?cm=6299&f=.m3u8
 #EXTINF:-1 tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/839.png", Warner Channel Latinoamerica
 http://adryanlist.x10.mx/nescafe.php?cm=2499&f=.m3u8
