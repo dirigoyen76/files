@@ -216,3 +216,5 @@ http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL104/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/milenio-tv.png",2 MILENIO
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/telemondo.png", Telemundo
+https://streamup.global.ssl.fastly.net/app/telemundox2chivas_69s-stream/chunklist.m3u8
